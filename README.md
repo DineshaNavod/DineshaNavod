@@ -1,58 +1,18 @@
-<!--
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
--->
-
-<!--
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
+<!--Top Header Image-->
+# ![WebApp](https://raw.githubusercontent.com/DineshaNavod/My-UI-UX-Images/refs/heads/main/demo_landing-1.jpg)
 
 
-
-<!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
-
-
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-
-
-<!-- Greeting -->
 </h1>
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 
 <h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
-
+<br>
 
  <div align="center">
 <a href="https://github.com/JoshuaThadi">
   <img width="162px" 
        src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=318CE7&style=for-the-badge" 
        alt="Profile views" /></a>
-<a href="https://api.github-star-counter.workers.dev/user/JoshuaThadi">
-  <img width="115px" 
-       alt="Total stars" 
-       title="Total stars on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/JoshuaThadi" /></a>
-<a href="https://github.com/JoshuaThadi?tab=followers">
-  <img width="147px" 
-       alt="Followers" 
-       title="Follow me on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/JoshuaThadi?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 
 
