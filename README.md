@@ -1,6 +1,3 @@
-# ![WebApp](https://raw.githubusercontent.com/DineshaNavod/My-UI-UX-Images/refs/heads/main/demo_landing-1.jpg)
-
-</h1>
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Dinesha Navod</h1>
 
 <p align="center">
@@ -73,26 +70,3 @@
 <p align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DineshaNavod&theme=dark&hide_border=true"/>
 </p>
-
-
-
-  
-  <h3>💻 Tech Stack:</h3>
-     <br/>
-  <div align="center">
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </div>
-  <div align="center"> 
-  </div>
-<br>
-<br>
-
-
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
