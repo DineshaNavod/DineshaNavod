@@ -33,29 +33,6 @@
 <br>
 
 
-<h3 align="center">⚡ Github Status</h3>
-<br>
-<div align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=DineshaNavod&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
-
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshaNavod&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
-
-<br/><br/>
-
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,kali,ubuntu,python,javascript,mysql,java" /><br>
-    
-</div>
-
-<br/>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
