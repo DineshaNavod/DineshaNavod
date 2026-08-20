@@ -82,9 +82,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DineshaNavod&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DineshaNavod&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
